@@ -1,1 +1,1 @@
-# machineLearning_Predicting_Credit_Risk
+# Supervised machineLearning_Predicting_Credit_Risk
